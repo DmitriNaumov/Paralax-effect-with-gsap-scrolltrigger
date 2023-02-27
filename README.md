@@ -1,5 +1,4 @@
 # Paralax-effect-with-gsap-scrolltrigger
 Paralax effect with gsap scrolltrigger
 
-DEMO -  \
-CODEPEN - 
+DEMO - https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/ \
